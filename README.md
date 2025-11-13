@@ -1,6 +1,20 @@
-# Ecommerce Data Pipeline Project
-This project demonstrates a complete data pipeline for ecommerce data using Cursor IDE, following the A-SDLC (AI-Software Development Life Cycle) approach.
-## Project Structure
+# Ecommerce Data Pipeline Project - Diligent A-SDLC Exercise
+
+This project demonstrates the use of Cursor IDE to create prompts for an ecommerce data pipeline, following the A-SDLC (AI-Software Development Life Cycle) approach.
+
+## 🎯 Main Deliverables - Prompts
+
+This assignment focuses on creating **three prompts** that can be used in Cursor IDE to generate code for:
+
+1. **`prompt_generate_data.txt`** - Prompt to generate synthetic ecommerce data (5 CSV files)
+2. **`prompt_ingest_database.txt`** - Prompt to ingest CSV data into SQLite database
+3. **`prompt_sql_query.txt`** - Prompt to generate SQL queries with multiple table joins
+
+These prompts can be used directly in Cursor IDE to generate the complete data pipeline solution.
+
+> **Note:** The Python scripts, data files, and database included in this repository serve as **proof of concept** - demonstrating that the prompts successfully generate working code when used in Cursor IDE.
+
+## 📋 Project Structure
 ```
 Diligent/
 ├── data/                          # Generated CSV data files
@@ -19,7 +33,9 @@ Diligent/
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
 ```
-## Setup Instructions
+The following scripts were generated using the prompts above in Cursor IDE:
+
+### Setup Instructions
 1. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
@@ -48,13 +64,37 @@ Diligent/
    ```
    This will execute multiple complex SQL queries with joins and export results to CSV files.
 
-## Prompts Used
+## 📝 Prompt Details
 
-The project includes three main prompts that were used to generate the code:
+### 1. Generate Synthetic Ecommerce Data
+**File:** `prompt_generate_data.txt`
 
-1. **prompt_generate_data.txt**: Prompt for generating synthetic ecommerce data
-2. **prompt_ingest_database.txt**: Prompt for ingesting data into SQLite database
-3. **prompt_sql_query.txt**: Prompt for creating SQL queries with multiple table joins
+This prompt instructs Cursor IDE to create a Python script that generates 5 CSV files with realistic ecommerce data:
+- `customers.csv` - Customer information
+- `products.csv` - Product catalog  
+- `orders.csv` - Order records
+- `order_items.csv` - Individual items in each order
+- `suppliers.csv` - Supplier information
+
+### 2. Ingest Data into SQLite Database
+**File:** `prompt_ingest_database.txt`
+
+This prompt instructs Cursor IDE to create a Python script that:
+- Creates a SQLite database (`ecommerce.db`)
+- Defines proper schema with foreign key relationships
+- Loads all CSV files into corresponding tables
+- Handles data type conversions and errors
+
+### 3. Generate SQL Queries with Joins
+**File:** `prompt_sql_query.txt`
+
+This prompt instructs Cursor IDE to create a Python script that:
+- Connects to the SQLite database
+- Executes complex SQL queries joining 3-4 tables
+- Displays results in readable format
+- Exports results to CSV files
+
+## 💻 Implementation (Generated from Prompts)
 
 ## Database Schema
 
@@ -80,22 +120,12 @@ The `query_data.py` script executes 5 different queries:
 
 All query results are exported to CSV files in the project root.
 
-## GitHub Repository
+## 🔗 GitHub Repository
 
-This project is configured for GitHub. To push to GitHub:
+This project has been pushed to GitHub:
+**Repository:** https://github.com/Choohitha/diligent-a-sdlc-exercise.git
 
-1. Create a repository on GitHub
-2. Add the remote:
-   ```bash
-   git remote add origin <your-github-repo-url>
-   ```
-3. Commit and push:
-   ```bash
-   git add .
-   git commit -m "Initial commit: Ecommerce data pipeline"
-   git push -u origin main
-   ```
-## Notes
+## 📌 Notes
 - All scripts include error handling and progress messages
 - The data generation uses the Faker library for realistic synthetic data
 - Foreign key constraints ensure data integrity
