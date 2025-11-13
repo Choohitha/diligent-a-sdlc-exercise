@@ -1,0 +1,18 @@
+This project was created using the following prompts in Cursor IDE:
+
+1. PROMPT: Generate Synthetic Ecommerce Data (prompt_generate_data.txt)
+   - Generated Python script to create 5 CSV files with realistic ecommerce data
+   - Files: customers.csv, products.csv, orders.csv, order_items.csv, suppliers.csv
+
+2. PROMPT: Ingest Data into SQLite Database (prompt_ingest_database.txt)
+   - Created Python script to load CSV data into SQLite database
+   - Establishes proper schema with foreign key relationships
+   - Handles data type conversions and error handling
+
+3. PROMPT: Generate SQL Query with Multiple Table Joins (prompt_sql_query.txt)
+   - Created Python script with 5 complex SQL queries joining 3-4 tables each
+   - Queries include: order history, sales by category, top customers, supplier performance, monthly sales
+   - Exports results to CSV files for analysis
+
+All prompts were executed successfully using Cursor IDE's AI capabilities.
+

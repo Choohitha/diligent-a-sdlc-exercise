@@ -1,0 +1,29 @@
+PROMPT: Generate Synthetic Ecommerce Data
+
+Generate synthetic ecommerce data for an online store. Create approximately 5 CSV files with the following structure:
+
+1. customers.csv - Customer information
+   Columns: customer_id, first_name, last_name, email, phone, address, city, state, zip_code, registration_date
+
+2. products.csv - Product catalog
+   Columns: product_id, product_name, category, price, stock_quantity, description, supplier_id
+
+3. orders.csv - Order records
+   Columns: order_id, customer_id, order_date, total_amount, status, shipping_address
+
+4. order_items.csv - Individual items in each order
+   Columns: order_item_id, order_id, product_id, quantity, unit_price, subtotal
+
+5. suppliers.csv - Supplier information
+   Columns: supplier_id, supplier_name, contact_email, phone, address, city, state
+
+Requirements:
+- Generate realistic data with at least 50-100 records per file
+- Ensure referential integrity (foreign keys match between files)
+- Include diverse data: various categories, dates, prices, etc.
+- Use realistic names, addresses, and email formats
+- Dates should span the last 2 years
+- Prices should be realistic for ecommerce products
+
+Save all files in the 'data' directory.
+

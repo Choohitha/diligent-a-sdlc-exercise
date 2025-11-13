@@ -1,0 +1,26 @@
+PROMPT: Generate SQL Query with Multiple Table Joins
+
+Create a Python script that executes a SQL query joining multiple tables from the ecommerce database and generates an output.
+
+Requirements:
+1. Connect to the SQLite database 'ecommerce.db'
+2. Write a SQL query that joins at least 3-4 tables together
+3. The query should be meaningful and useful for business analysis, such as:
+   - Sales report by customer with product details
+   - Revenue by product category
+   - Customer order history with product information
+   - Supplier performance with product sales
+   - Top customers by total spending
+
+4. Execute the query and display the results in a readable format
+5. Optionally, export the results to a CSV file
+6. Include column headers and format the output nicely
+7. Show summary statistics if applicable (total, average, count, etc.)
+
+Example query ideas:
+- Join customers, orders, order_items, and products to show detailed order history
+- Join products, order_items, orders, and suppliers to show supplier sales performance
+- Join customers, orders, and order_items to calculate customer lifetime value
+
+The script should be named 'query_data.py' and should demonstrate complex SQL joins.
+
