@@ -1,9 +1,6 @@
 # Ecommerce Data Pipeline Project
-
 This project demonstrates a complete data pipeline for ecommerce data using Cursor IDE, following the A-SDLC (AI-Software Development Life Cycle) approach.
-
 ## Project Structure
-
 ```
 Diligent/
 ├── data/                          # Generated CSV data files
@@ -22,9 +19,7 @@ Diligent/
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
 ```
-
 ## Setup Instructions
-
 1. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
@@ -100,11 +95,8 @@ This project is configured for GitHub. To push to GitHub:
    git commit -m "Initial commit: Ecommerce data pipeline"
    git push -u origin main
    ```
-
 ## Notes
-
 - All scripts include error handling and progress messages
 - The data generation uses the Faker library for realistic synthetic data
 - Foreign key constraints ensure data integrity
 - CSV exports are UTF-8 encoded for international character support
-

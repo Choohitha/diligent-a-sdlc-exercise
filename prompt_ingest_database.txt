@@ -14,8 +14,7 @@ Requirements:
 3. Define appropriate data types for each column:
    - IDs: INTEGER PRIMARY KEY
    - Names, addresses, text: TEXT
-   - Prices, amounts: REAL
-   - Dates: TEXT or DATE
+   - Prices, amounts: REAL   - Dates: TEXT or DATE
    - Quantities: INTEGER
 
 4. Read each CSV file and insert the data into the corresponding table

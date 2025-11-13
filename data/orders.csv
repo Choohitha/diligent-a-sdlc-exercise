@@ -1,151 +1,151 @@
 order_id,customer_id,order_date,total_amount,status,shipping_address
-1,85,2025-01-15,5149.08,Cancelled,102 Brandy Pines Suite 063
-2,62,2024-08-17,2755.02,Pending,1018 Jason Passage Apt. 407
-3,16,2025-06-25,4485.81,Processing,81582 Smith Lane Apt. 629
-4,47,2024-02-26,3726.96,Delivered,7016 Smith Fall Apt. 793
-5,95,2024-09-17,11531.8,Cancelled,13217 Harris Parkways Suite 130
-6,60,2024-10-23,3923.43,Delivered,663 Hall Orchard Suite 691
-7,24,2024-06-26,951.79,Cancelled,554 Andrew Inlet
-8,9,2024-09-19,6275.44,Delivered,7574 Albert Extensions
-9,49,2024-06-01,811.65,Shipped,2606 Megan Plaza
-10,71,2024-10-20,4942.88,Processing,5124 Robinson Drives
-11,14,2024-01-17,3524.47,Delivered,2861 Harold Parkways Apt. 812
-12,45,2024-12-31,547.74,Processing,5592 Arroyo Estate Suite 501
-13,42,2024-07-31,1058.34,Cancelled,5743 Kelley Falls Suite 512
-14,84,2023-11-15,3443.52,Delivered,7524 Lee Walks Apt. 173
-15,39,2024-10-10,4040.4,Cancelled,3618 Johnson Ramp
-16,61,2023-12-21,1545.55,Cancelled,65868 Porter Street
-17,97,2024-06-26,864.03,Processing,71366 Thomas Shoal
-18,86,2025-08-11,4473.84,Pending,37641 Leblanc Branch
-19,31,2025-06-12,4842.96,Delivered,7881 Elliott Meadow
-20,78,2025-01-23,8010.08,Processing,450 Carol Landing Suite 029
-21,79,2024-04-28,7662.8,Processing,233 Powers Lodge Apt. 424
-22,40,2025-07-08,3133.31,Delivered,072 Perez Dam
-23,27,2024-08-19,10519.74,Processing,07879 Michael Mews
-24,84,2024-11-28,3192.65,Cancelled,4188 David Ports
-25,32,2025-02-01,4131.78,Shipped,614 Jeffrey Spring
-26,52,2025-04-20,3850.56,Shipped,57520 Eric Oval Suite 069
-27,67,2025-03-06,1806.95,Delivered,086 Ryan Isle
-28,78,2023-12-26,5823.99,Delivered,47279 Salazar Stravenue
-29,83,2024-06-27,2556.57,Pending,900 John Route Suite 102
-30,51,2025-10-08,8056.57,Delivered,418 Peters Heights
-31,56,2023-12-24,8734.8,Shipped,80055 Cox Trail
-32,14,2024-10-17,11165.0,Processing,417 Baldwin Shoals
-33,98,2024-10-20,7928.2,Pending,056 Gina Lights
-34,83,2024-07-30,3935.27,Processing,798 Todd Forest
-35,96,2024-03-30,8618.84,Shipped,36827 Edward Shores
-36,89,2024-05-24,6062.33,Pending,0857 Daisy Summit
-37,77,2025-09-11,1087.25,Processing,999 Romero Village Suite 623
-38,17,2024-01-06,2834.71,Pending,0140 Zavala Skyway Apt. 568
-39,29,2024-12-11,4120.45,Cancelled,4184 Susan Mill Suite 286
-40,14,2024-11-13,7166.88,Delivered,7404 Michael Street
-41,75,2024-08-03,7431.21,Cancelled,376 Karen Meadows Suite 597
-42,54,2023-12-23,3921.35,Delivered,652 Yoder Well
-43,6,2025-10-09,5408.95,Processing,20537 Collins Throughway
-44,29,2025-02-18,4427.44,Shipped,95759 Steven Heights Apt. 319
-45,26,2025-02-17,6853.08,Delivered,46363 Acosta Corner Apt. 496
-46,31,2024-06-14,10033.92,Processing,13656 Edwards Isle Apt. 844
-47,77,2025-02-16,2548.4,Processing,248 Trujillo Port
-48,93,2025-09-13,1320.0,Delivered,17527 Paul Estate Suite 382
-49,41,2024-11-22,2958.15,Processing,74464 Ricky Cliff Apt. 682
-50,21,2023-12-21,799.24,Pending,2703 Anderson Ford
-51,68,2025-09-08,2554.03,Delivered,4960 Pearson Plain Apt. 273
-52,90,2025-08-05,1056.0,Cancelled,9427 Christopher Field
-53,23,2023-12-29,5926.55,Shipped,69607 Steven Alley
-54,99,2025-03-22,10259.64,Shipped,2876 Jeremiah Junctions
-55,21,2024-05-23,8157.88,Shipped,8310 Wright Plaza Apt. 386
-56,97,2024-06-02,9421.9,Pending,4126 Harris View
-57,90,2025-08-05,3879.38,Pending,922 Elizabeth Ports Suite 823
-58,12,2024-08-15,6977.95,Processing,83263 Corey Street
-59,41,2025-10-12,14994.09,Pending,0952 Weber Oval
-60,39,2025-03-26,1945.76,Processing,5906 Cristian Walk
-61,22,2025-03-01,2903.21,Delivered,598 Clark Manors Suite 864
-62,46,2024-04-07,7980.74,Processing,036 Cohen Inlet Apt. 066
-63,76,2024-11-29,2595.59,Cancelled,82500 Wilson Landing
-64,21,2025-02-03,3344.09,Shipped,253 Green Circle Apt. 906
-65,69,2024-02-23,4983.2,Pending,471 Denise Landing Suite 074
-66,55,2024-04-23,5232.1,Cancelled,402 Kimberly Estate
-67,46,2024-02-19,10339.59,Shipped,14603 Lane Stream
-68,84,2025-04-14,6335.03,Shipped,5424 Hoffman Square
-69,54,2025-08-12,1049.22,Shipped,4955 Lisa Trafficway
-70,1,2024-02-26,731.8,Delivered,58667 Jennifer Bypass Apt. 532
-71,97,2024-01-26,3333.29,Cancelled,4326 Campbell Lodge
-72,12,2025-08-27,842.49,Processing,0238 Erickson Coves Apt. 432
-73,35,2024-12-26,6119.46,Pending,25364 Ashley Brooks
-74,88,2024-12-27,5075.29,Pending,57532 Betty Shore
-75,66,2024-06-23,3850.86,Cancelled,126 Deanna Causeway
-76,96,2024-05-08,4047.97,Cancelled,66986 Brown Junction
-77,71,2025-03-10,4788.1,Pending,613 Rachel Harbor
-78,69,2023-11-23,4112.01,Processing,500 Daniel Roads
-79,68,2025-04-22,2725.55,Pending,9774 Ryan Knolls Apt. 752
-80,98,2025-06-21,1540.78,Pending,00797 Theresa Prairie Apt. 609
-81,44,2023-12-10,10311.34,Delivered,7875 James Villages
-82,39,2024-06-09,10329.8,Pending,0385 Mcdonald Dam Suite 435
-83,81,2024-03-15,3782.97,Processing,186 Daniel Forest
-84,65,2025-07-26,1599.95,Pending,9989 Roth Dale
-85,19,2024-05-09,7519.01,Cancelled,3988 Bridget Trace
-86,69,2025-08-08,2813.92,Pending,18397 Kenneth Fields
-87,44,2024-03-05,5520.27,Cancelled,668 Christopher Knolls Apt. 759
-88,40,2024-10-19,9228.87,Processing,43756 Gould Meadow
-89,76,2023-11-28,6091.34,Pending,9255 Jay Rapids
-90,60,2023-11-20,9163.05,Delivered,2876 Aaron Greens Suite 872
-91,37,2024-06-09,3411.4,Cancelled,11516 Ramsey Dam Suite 480
-92,53,2024-09-01,1690.16,Delivered,872 Wu Pines Suite 996
-93,40,2024-08-15,6012.53,Cancelled,9469 Sean Squares Apt. 159
-94,24,2025-06-02,8959.49,Pending,3776 Mary Ranch
-95,79,2023-12-29,3991.82,Processing,3872 Brown Prairie
-96,64,2023-12-02,1453.52,Delivered,1357 Parker Square Apt. 068
-97,34,2024-12-16,1246.4,Processing,883 Schmidt Harbors
-98,52,2025-10-20,1368.54,Delivered,9233 Torres Locks
-99,56,2024-04-02,753.64,Cancelled,146 Green Viaduct Apt. 562
-100,86,2025-07-14,318.18,Processing,94858 Rollins Road
-101,47,2025-01-23,3965.18,Processing,51882 Hancock Viaduct
-102,4,2024-09-18,1392.46,Pending,609 William Isle
-103,37,2024-04-14,6391.92,Processing,5872 Danny Centers
-104,94,2024-09-07,990.76,Shipped,40159 Richard Stream Suite 774
-105,34,2025-07-20,6890.55,Pending,52192 Cortez Views
-106,81,2024-02-18,4499.78,Processing,308 Anderson Highway
-107,73,2024-08-28,3514.02,Cancelled,4978 Joan Plaza
-108,92,2025-09-14,5633.5,Processing,360 Allen Wells
-109,99,2025-08-04,2023.26,Cancelled,8287 Daniel Run Apt. 562
-110,26,2024-05-14,1210.9,Processing,8428 Orozco Viaduct Apt. 127
-111,28,2025-07-14,7525.32,Pending,21475 Dorsey Lane Suite 857
-112,71,2025-08-20,4457.34,Cancelled,0071 Simon Stream Suite 872
-113,3,2025-06-12,2366.07,Cancelled,312 Tracy Port Apt. 586
-114,38,2024-07-26,2203.13,Delivered,1681 Richard Park Apt. 614
-115,17,2025-10-11,4385.25,Delivered,549 Lopez Manor Suite 567
-116,34,2024-05-03,427.15,Pending,74008 David Gateway Apt. 892
-117,46,2024-01-09,8902.27,Cancelled,893 Reyes Locks Suite 874
-118,37,2024-05-13,9019.26,Pending,47451 Karla Garden Suite 467
-119,49,2024-12-11,8730.52,Shipped,61896 Buck Extension
-120,67,2024-12-05,3719.14,Cancelled,530 Morgan Lake
-121,2,2024-09-21,8722.34,Cancelled,7913 Payne Via
-122,98,2024-08-30,765.07,Pending,4504 Wall Park Suite 967
-123,21,2024-11-15,12294.13,Pending,29504 Knight Walk
-124,13,2023-11-18,3604.26,Cancelled,50229 Lawrence Stravenue Apt. 540
-125,10,2024-06-16,6779.38,Processing,7700 Derek Branch
-126,81,2024-02-26,3093.71,Processing,648 Kara Viaduct Suite 910
-127,85,2025-02-21,4040.4,Processing,66557 Jessica Mission Apt. 488
-128,91,2025-07-02,1968.3,Shipped,690 Michael Wall Suite 250
-129,87,2024-04-12,3063.8,Delivered,5271 Jeff Knolls Apt. 331
-130,52,2025-07-15,3914.63,Cancelled,9606 Barnes Inlet
-131,95,2025-04-07,2926.32,Cancelled,685 Saunders Harbor Suite 421
-132,25,2025-08-02,2669.46,Cancelled,541 Barbara Greens Apt. 741
-133,8,2025-04-12,2747.23,Shipped,3218 Guerrero Falls
-134,81,2025-05-05,2180.44,Delivered,81353 Hughes Coves
-135,2,2025-05-21,2329.0,Delivered,36328 Pitts Roads Apt. 255
-136,47,2024-05-08,8421.84,Delivered,916 Andrew Square Apt. 861
-137,88,2025-10-21,2498.48,Processing,9296 Paul Route Apt. 144
-138,82,2025-09-01,1531.9,Cancelled,980 Lee Branch
-139,2,2024-10-08,5271.45,Cancelled,52579 Lambert Glens
-140,18,2024-06-11,4333.65,Processing,304 Diaz Hollow
-141,77,2024-01-25,7468.05,Processing,426 Erica Parkways Apt. 845
-142,46,2025-11-07,4360.07,Processing,09293 Cox Cape
-143,55,2024-10-09,6457.57,Cancelled,32415 Stephanie Trace
-144,72,2025-02-24,361.67,Pending,496 Jessica Parks Suite 853
-145,22,2024-08-14,614.32,Processing,528 Stanley Way Apt. 901
-146,21,2024-10-17,4896.59,Pending,842 Amy Light Suite 983
-147,23,2025-09-29,3953.48,Shipped,319 Moody Flats Suite 696
-148,37,2023-12-26,4291.34,Processing,26763 Graham Mews Suite 305
-149,74,2023-12-14,1281.45,Shipped,696 Veronica Gardens Apt. 448
-150,93,2025-04-19,3123.18,Cancelled,474 Amanda River Suite 682
+1,44,2024-03-06,1129.49,Cancelled,66288 Craig Parks
+2,97,2025-06-17,2443.59,Delivered,6917 Thomas Square Apt. 938
+3,12,2025-05-17,3900.58,Pending,959 Marcus Stravenue Suite 200
+4,42,2023-11-18,5642.74,Delivered,566 Ferguson Streets
+5,39,2025-10-18,1995.73,Delivered,54507 Mcintosh Hollow Apt. 138
+6,42,2025-03-11,5589.09,Delivered,19521 Castillo Gardens
+7,71,2024-09-10,2368.04,Delivered,76085 Peggy Ways
+8,8,2024-03-20,3780.96,Cancelled,92910 Robert Highway
+9,82,2024-10-07,3297.32,Processing,8918 Brooke Ridges Apt. 310
+10,95,2024-07-04,4953.62,Delivered,525 Jimenez Summit
+11,8,2024-09-29,7838.86,Cancelled,5094 Gibson Mountains
+12,55,2024-04-05,972.77,Cancelled,3823 Melanie Haven
+13,54,2024-10-08,3640.92,Delivered,2199 Ryan Cape Apt. 102
+14,44,2024-05-07,10722.15,Cancelled,141 Erica Creek Suite 341
+15,87,2025-03-31,9172.55,Pending,373 Patricia Stravenue
+16,54,2024-08-10,2694.64,Shipped,5639 Armstrong Island Suite 808
+17,80,2024-08-13,253.57,Cancelled,0769 Susan Islands Suite 807
+18,74,2024-07-02,7316.7,Pending,83067 Thomas Fields
+19,53,2023-12-28,2452.36,Processing,844 Gutierrez Meadow
+20,34,2025-02-02,2117.4,Delivered,3501 Levine Prairie
+21,36,2024-06-24,8473.0,Processing,5284 Pineda Land Suite 410
+22,58,2024-06-07,1423.15,Pending,31186 Miller Loaf Suite 022
+23,22,2025-08-03,506.74,Shipped,3904 Carrie Islands
+24,80,2024-08-12,6352.82,Shipped,1948 Harding Pass
+25,82,2024-08-18,6693.47,Cancelled,395 Justin Crescent
+26,93,2025-07-01,6780.78,Pending,087 Ramirez Lights
+27,70,2025-05-27,1222.32,Delivered,276 Avila Wall
+28,66,2025-11-11,7478.57,Delivered,38642 Sandra Park Suite 110
+29,25,2024-11-29,4255.5,Cancelled,3873 Teresa Turnpike Suite 581
+30,38,2024-02-19,4880.96,Delivered,52720 Evans Square
+31,89,2025-04-04,4936.85,Cancelled,0554 Cameron Plaza
+32,33,2025-06-07,5323.89,Shipped,29326 Arnold Points
+33,68,2023-11-19,3338.32,Processing,4872 Stokes Corners Suite 829
+34,39,2024-08-01,4778.53,Delivered,516 Samantha Roads Apt. 293
+35,14,2024-11-06,3767.1,Pending,22623 Stevens Overpass Apt. 794
+36,48,2025-11-01,4302.81,Delivered,5155 Joan Track Suite 102
+37,74,2025-08-12,3391.53,Delivered,879 John Circle Apt. 095
+38,48,2025-08-23,3327.01,Delivered,73052 Johns Burg
+39,91,2024-09-26,10271.81,Pending,38083 Murray Highway Apt. 409
+40,31,2024-09-20,11777.92,Processing,857 Myers Coves Apt. 101
+41,86,2025-07-31,3842.75,Cancelled,102 Nancy Springs
+42,41,2024-04-19,1300.8,Cancelled,58075 David Spring Apt. 335
+43,6,2024-06-13,6500.62,Pending,1078 Hannah Springs
+44,93,2025-10-28,3175.04,Pending,9408 Moss Station Apt. 146
+45,42,2024-09-23,9753.6,Shipped,2525 John Points
+46,35,2024-12-12,986.04,Delivered,343 Heather Haven Apt. 364
+47,46,2024-11-16,2497.61,Processing,7921 Bell Hills Suite 226
+48,67,2025-02-22,3689.11,Shipped,34667 Smith Route Apt. 354
+49,87,2024-02-24,1803.47,Processing,887 Veronica Lane
+50,11,2024-07-17,9319.96,Pending,12518 Whitney Mills
+51,76,2025-11-05,940.53,Shipped,7615 Martin Mountain
+52,27,2023-12-21,2020.98,Processing,23105 Kevin Fork
+53,59,2025-10-08,2543.7,Shipped,744 Lopez Ranch
+54,7,2024-04-02,3211.92,Pending,2130 Glover Valleys Apt. 044
+55,43,2024-11-03,546.99,Pending,61482 Lawrence Club Suite 292
+56,46,2024-11-29,3022.88,Shipped,645 Elizabeth Pine Suite 293
+57,17,2023-12-04,6000.47,Processing,343 Cook Mill
+58,87,2025-01-25,4320.2,Shipped,431 Acevedo Highway
+59,10,2024-01-29,2489.66,Delivered,93242 Joseph Cliff
+60,36,2024-12-08,2937.42,Delivered,91066 Campbell Parkway Apt. 137
+61,64,2025-07-20,4320.84,Shipped,1349 Erin Trail
+62,15,2024-07-19,7637.97,Shipped,302 Page Underpass Suite 876
+63,15,2024-08-01,3287.45,Processing,49073 Wilcox Summit
+64,87,2024-10-08,8483.89,Delivered,174 Bird Mountain Suite 787
+65,90,2025-05-09,5442.68,Processing,76759 Logan Creek Suite 905
+66,48,2023-11-22,5818.63,Pending,0445 Michael Light Apt. 891
+67,16,2023-11-28,6349.82,Shipped,7176 Thomas Turnpike
+68,31,2025-07-29,6059.38,Delivered,669 Briana Mission Suite 720
+69,12,2025-04-14,4475.7,Shipped,05912 Everett Divide
+70,72,2025-04-22,2486.43,Shipped,56501 Kendra Neck
+71,50,2024-03-03,3963.83,Delivered,2111 Fisher Ramp Suite 850
+72,39,2023-12-13,877.52,Delivered,973 Rodriguez Bypass Apt. 630
+73,10,2024-07-03,4724.32,Cancelled,7397 Melissa Groves Apt. 224
+74,17,2025-10-16,9377.62,Processing,02886 Courtney Knoll
+75,38,2024-08-23,8252.23,Processing,19662 John Terrace
+76,60,2025-02-06,3116.92,Cancelled,344 Joseph Pines Suite 023
+77,76,2024-10-08,7835.71,Pending,458 James Cape Apt. 923
+78,86,2025-07-13,4470.9,Delivered,791 Benitez Knolls
+79,39,2024-02-15,3757.33,Processing,160 Webster Street Suite 091
+80,92,2024-07-12,2237.31,Shipped,93228 Michael Center
+81,32,2025-01-19,6151.89,Shipped,00081 Darrell Canyon Suite 476
+82,95,2024-01-20,9248.15,Pending,2374 Morris Spring Suite 678
+83,89,2024-12-06,4964.0,Processing,21150 Harris Plaza
+84,88,2024-10-11,2662.41,Pending,2969 Jared Village Suite 580
+85,78,2025-06-07,4641.09,Delivered,94617 Amanda Land
+86,98,2024-02-23,2159.22,Delivered,53479 Massey Glen
+87,37,2025-01-31,10225.04,Pending,9758 Rebekah Mount Suite 574
+88,72,2024-04-15,3264.13,Cancelled,885 Mathews Inlet
+89,12,2025-04-11,708.78,Processing,6297 Adam Burg Suite 391
+90,62,2024-01-31,522.1,Pending,8423 Walter Field Suite 451
+91,92,2024-03-16,7761.08,Delivered,121 Jones Camp Apt. 537
+92,38,2024-06-01,1254.15,Delivered,2949 Stevens Shoal
+93,75,2024-09-20,4044.63,Processing,6112 Victoria Ways
+94,38,2024-10-02,425.62,Processing,7626 Jones Parkway
+95,86,2025-09-24,906.06,Processing,496 Joseph Stream
+96,33,2025-07-20,5138.2,Shipped,5879 Tiffany Vista Apt. 860
+97,59,2024-09-19,181.29,Pending,3268 Adrian Pines
+98,47,2024-07-02,8503.81,Delivered,86694 Carla Cove
+99,56,2025-01-05,11699.8,Pending,02920 Bradley Valleys Apt. 110
+100,24,2024-02-11,251.86,Pending,434 Parks Expressway
+101,14,2025-06-27,1407.1,Delivered,6535 Hill Extension
+102,95,2025-01-23,4127.2,Processing,9967 Christopher Club
+103,34,2024-08-20,4601.75,Processing,571 Lawrence Canyon
+104,76,2025-02-09,8234.06,Pending,502 Sean Spur
+105,60,2024-12-05,8302.42,Delivered,2886 Williams Lake Suite 010
+106,36,2025-02-06,4730.27,Delivered,7366 Higgins Oval
+107,35,2025-04-08,5833.35,Shipped,6617 Darrell Forges
+108,14,2023-12-11,4426.78,Cancelled,34394 Ashley Rapids Suite 714
+109,44,2024-10-25,8053.58,Shipped,164 Joseph River Suite 113
+110,72,2025-04-05,2252.42,Shipped,98863 Estrada Forge
+111,54,2025-09-25,2020.98,Pending,82899 Sullivan Garden
+112,1,2024-10-11,1842.94,Shipped,83713 Haynes Locks Suite 622
+113,43,2024-09-15,9429.07,Processing,038 Brandon Bridge Suite 716
+114,68,2024-05-11,4188.95,Pending,216 Rose Mission
+115,69,2024-05-16,6215.07,Pending,51379 Campbell Radial
+116,10,2025-06-26,5913.85,Shipped,91111 Elizabeth Bridge
+117,85,2025-07-12,8153.28,Processing,0907 Caroline Freeway
+118,1,2024-11-03,8066.87,Pending,25619 Steve Village Apt. 115
+119,90,2023-12-21,3590.65,Processing,859 Michelle Turnpike Apt. 717
+120,84,2024-07-03,4088.03,Shipped,051 Walker Bypass Apt. 990
+121,17,2024-03-31,3849.79,Processing,7388 Anderson Rue
+122,49,2025-05-31,4478.02,Processing,22239 Gomez Villages
+123,22,2025-03-11,1418.5,Delivered,657 Webster View
+124,72,2024-08-20,4397.9,Processing,84893 Levy Knoll
+125,3,2024-01-28,2481.24,Pending,4985 Bates Dam Suite 212
+126,45,2025-11-10,2600.27,Delivered,076 Benjamin Villages Suite 879
+127,80,2024-09-29,4944.13,Cancelled,44596 Smith Rapids Suite 258
+128,78,2024-12-14,7864.1,Delivered,92574 Huynh Hollow Apt. 356
+129,84,2025-09-19,6730.62,Processing,47829 Aaron Isle Apt. 251
+130,34,2023-12-21,8590.59,Shipped,06046 Blake Harbors
+131,57,2023-12-20,6266.8,Shipped,676 Tammy Mill
+132,85,2024-12-22,6500.58,Delivered,4936 Bobby Stravenue
+133,25,2025-04-11,6080.48,Cancelled,2856 White Trail Apt. 356
+134,43,2025-07-21,8721.17,Cancelled,944 Bass Freeway
+135,74,2025-05-12,2372.43,Delivered,89296 Ashley Brooks
+136,41,2025-08-15,5195.69,Processing,373 Lamb Brooks Suite 668
+137,30,2024-05-05,6321.16,Shipped,3164 Smith Crest
+138,21,2024-01-06,2300.0,Delivered,784 Stephanie Cliff Suite 185
+139,1,2024-10-11,1394.37,Cancelled,322 Oscar Loaf Apt. 472
+140,84,2024-02-29,2214.25,Delivered,3902 Michael Stravenue Apt. 323
+141,10,2024-02-06,6384.42,Delivered,9252 Adam Trail Apt. 349
+142,75,2024-02-29,9970.96,Cancelled,66923 Webb Ports
+143,67,2024-09-26,2929.92,Pending,37152 Brian Inlet
+144,49,2024-09-10,2506.77,Pending,002 Acosta Meadow
+145,14,2024-12-07,2528.37,Cancelled,29425 Mcfarland Villages
+146,39,2025-05-18,10875.97,Pending,8230 Peggy Club
+147,50,2024-05-11,6964.84,Shipped,0448 Meghan Highway Apt. 679
+148,31,2025-06-24,3163.24,Cancelled,854 William River
+149,29,2024-03-07,3719.45,Delivered,139 Williams Ferry Suite 276
+150,68,2025-10-08,7104.07,Cancelled,592 Gates Loop
